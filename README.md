@@ -28,7 +28,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,java,go,swift,fastapi,postgres,docker,git,github,figma,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,py,java,go,swift,pytorch,fastapi,postgres,docker,figma&theme=dark" />
 </p>
 
 <p align="center">
