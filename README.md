@@ -39,43 +39,6 @@
 
 ---
 
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshxx&theme=tokyo-night&hide_border=true" />
-</p>
-
-<!--
-  🐍 Animated snake contribution graph.
-  This needs a one-time GitHub Actions setup (see instructions below the README).
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshxx/Akshxx/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-### Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Akshxx/Recovia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshxx&repo=Recovia&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Akshxx/Brew-Society">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshxx&repo=Brew-Society&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Akshxx/Habit-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshxx&repo=Habit-Tracker&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Akshxx/Flappy-bird">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshxx&repo=Flappy-bird&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ### Connect with Me
 
 <p align="center">
